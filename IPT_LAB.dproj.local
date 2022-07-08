@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/23 07:16:45.000.631,=C:\Users\mknoda\Documents\Embarcadero\Studio\Projects\Unit15.pas</Transaction>
+    <Transaction>2022/06/23 07:21:31.000.063,C:\Sistema NFE 4.0 SIDNEY\IPT LAB\Unit1.dfm=C:\Users\mknoda\Documents\Embarcadero\Studio\Projects\Unit15.dfm</Transaction>
+    <Transaction>2022/06/23 07:21:31.000.063,C:\Sistema NFE 4.0 SIDNEY\IPT LAB\Unit1.pas=C:\Users\mknoda\Documents\Embarcadero\Studio\Projects\Unit15.pas</Transaction>
+    <Transaction>2022/06/23 07:21:51.000.200,C:\Sistema NFE 4.0 SIDNEY\IPT LAB\IPT_LAB.dproj=C:\Users\mknoda\Documents\Embarcadero\Studio\Projects\Project13.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
